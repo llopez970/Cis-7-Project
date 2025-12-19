@@ -6,7 +6,8 @@ This C++ application implements the Vigenère Cipher, offering both encryption a
 - Encrypts plaintext entered by the user and outputs it
 - Deciphers plaintext entered by the user and outputs it
 - The user has the ability to enter a keyword
-- The program prioritizes encapsulation 
+- The program prioritizes encapsulation
+- Allows lowercase input
 
 
 
